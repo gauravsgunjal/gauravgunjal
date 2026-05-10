@@ -121,11 +121,11 @@ Worked on:
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravgunjal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravsgunjal&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=gauravgunjal&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=gauravsgunjal&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
