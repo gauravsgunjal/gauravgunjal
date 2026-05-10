@@ -166,7 +166,7 @@ Currently exploring:
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/gauravgunjal" target="blank">
+<a href="https://github.com/gauravsgunjal" target="blank">
 <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
